@@ -15,5 +15,5 @@ galaxy_info:
         - 8
   galaxy_tags:
     - apache
-dependencies:
-  - livelabs4linux.conf_base
+#dependencies:
+#  - livelabs4linux.conf_base
